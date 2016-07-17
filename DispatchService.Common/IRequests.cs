@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DispatchService.Application
+namespace DispatchService.Common
 {
-    public class Class1
-    {
-    }
+	public interface IRequests
+	{
+
+	}
 }
