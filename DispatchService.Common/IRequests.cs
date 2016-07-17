@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DispatchService.Common
 {
-	public interface IRequests
+	public interface IRequests : IEnumerable<IRequest>
 	{
 
 	}
